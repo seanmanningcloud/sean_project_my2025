@@ -1,2 +1,5 @@
-# sean_project_my2025
-My Project in Python
+# Welcome to sean_project_my2025
+**My Project in Python**
+
+
+
